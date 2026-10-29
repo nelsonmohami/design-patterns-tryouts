@@ -1,0 +1,19 @@
+{
+  "name": "design-patterns-tryouts",
+  "version": "1.0.0",
+  "description": "A project to try out design patterns in Typescript",
+  "author": "Nelson Mohamie",
+  "license": "ISC",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts",
+    "dev": "tsx watch src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
