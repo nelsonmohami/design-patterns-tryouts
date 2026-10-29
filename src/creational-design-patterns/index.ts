@@ -1,0 +1,1 @@
+export { default as FactoryPattern } from './factory-pattern';
