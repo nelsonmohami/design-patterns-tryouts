@@ -1,4 +1,4 @@
-import GUIExample from "./gui-factory/index";
+import GUIExample from "./gui-factory-example/index";
 
 export const AbstractFactory = () => {
     console.log('********** Abstract Factory Pattern Example **********');
